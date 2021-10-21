@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dinesh130914
 - 👀 I’m interested in Mobile App Development & Web Development 
-- 🌱 I’m currently learning Mobile App Development 
+- 🌱 I’m currently Working on Mobile App Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
